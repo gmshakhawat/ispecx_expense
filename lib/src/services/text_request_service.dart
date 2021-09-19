@@ -4,7 +4,7 @@ import 'package:ispecx_expense/src/models/test_rec_model.dart';
 class TextRequeustService {
   //TextRequeustService();
 
-  static String API_KEY = "AIzaSyAJSy4FnYrfWN5RO75d2Ra591QHLQHRmMA";
+  static String API_KEY = "";
 //  String downloadUrl = "https://www.ustraveldocs.com/bd/Bank%20Receipt.jpg";
 
    Future<TextRecModel> request(image) async {
